@@ -7,5 +7,9 @@ public static void printHelloITI() {
      public static void printHelloGit() {
         System.out.println("Hello Git");
     }
+     public static void printHelloGit() {
+        System.out.println("Hello Java In ITI");
+    }
+    
 
 }
